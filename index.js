@@ -1,4 +1,1 @@
-var recipes = {
-  eggs: 3
-  salt: "dash"
-}
+var recipes = new Object();
